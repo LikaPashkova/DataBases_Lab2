@@ -1,0 +1,191 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{F770C65D-2286-4A18-A1CE-40E7AC4A397E}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>WindowsFormsApp1</RootNamespace>
+    <AssemblyName>WindowsFormsApp1</AssemblyName>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="MySql.Data, Version=6.9.10.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d, processorArchitecture=MSIL" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormAddFilms.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormAddFilms.Designer.cs">
+      <DependentUpon>FormAddFilms.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormAddHalls.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormAddHalls.Designer.cs">
+      <DependentUpon>FormAddHalls.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormAddOperators.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormAddOperators.Designer.cs">
+      <DependentUpon>FormAddOperators.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormAddSessions.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormAddSessions.Designer.cs">
+      <DependentUpon>FormAddSessions.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormDeleteFilms.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormDeleteFilms.Designer.cs">
+      <DependentUpon>FormDeleteFilms.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormDeleteHalls.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormDeleteHalls.Designer.cs">
+      <DependentUpon>FormDeleteHalls.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormDeleteOperators.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormDeleteOperators.Designer.cs">
+      <DependentUpon>FormDeleteOperators.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormDeleteSessions.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormDeleteSessions.Designer.cs">
+      <DependentUpon>FormDeleteSessions.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormEditOperators.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormEditOperators.Designer.cs">
+      <DependentUpon>FormEditOperators.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormEditFilms.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormEditFilms.Designer.cs">
+      <DependentUpon>FormEditFilms.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormEditHalls.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormEditHalls.Designer.cs">
+      <DependentUpon>FormEditHalls.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormEditSessions.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormEditSessions.Designer.cs">
+      <DependentUpon>FormEditSessions.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormAddFilms.resx">
+      <DependentUpon>FormAddFilms.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormAddHalls.resx">
+      <DependentUpon>FormAddHalls.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormAddOperators.resx">
+      <DependentUpon>FormAddOperators.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormAddSessions.resx">
+      <DependentUpon>FormAddSessions.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormDeleteFilms.resx">
+      <DependentUpon>FormDeleteFilms.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormDeleteHalls.resx">
+      <DependentUpon>FormDeleteHalls.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormDeleteOperators.resx">
+      <DependentUpon>FormDeleteOperators.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormDeleteSessions.resx">
+      <DependentUpon>FormDeleteSessions.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormEditOperators.resx">
+      <DependentUpon>FormEditOperators.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormEditFilms.resx">
+      <DependentUpon>FormEditFilms.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormEditHalls.resx">
+      <DependentUpon>FormEditHalls.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormEditSessions.resx">
+      <DependentUpon>FormEditSessions.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

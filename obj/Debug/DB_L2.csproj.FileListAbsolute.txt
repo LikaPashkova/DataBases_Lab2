@@ -1,0 +1,48 @@
+C:\Users\Lika\Documents\Visual Studio 2017\Projects\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Lika\Documents\Visual Studio 2017\Projects\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Lika\Documents\Visual Studio 2017\Projects\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Lika\Documents\Visual Studio 2017\Projects\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\MySql.Data.dll
+C:\Users\Lika\Documents\Visual Studio 2017\Projects\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\MySql.Data.xml
+C:\Users\Lika\Documents\Visual Studio 2017\Projects\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\DB_L2.csprojResolveAssemblyReference.cache
+C:\Users\Lika\Documents\Visual Studio 2017\Projects\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\Lika\Documents\Visual Studio 2017\Projects\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Lika\Documents\Visual Studio 2017\Projects\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\DB_L2.csproj.GenerateResource.Cache
+C:\Users\Lika\Documents\Visual Studio 2017\Projects\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Lika\Documents\Visual Studio 2017\Projects\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\Lika\Documents\Visual Studio 2017\Projects\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FormEditFilms.resources
+C:\Users\Lika\Documents\Visual Studio 2017\Projects\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FormAddFilms.resources
+C:\Users\Lika\Documents\Visual Studio 2017\Projects\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FormDeleteFilms.resources
+C:\Users\Lika\Documents\Visual Studio 2017\Projects\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FormAddHalls.resources
+C:\Users\Lika\Documents\Visual Studio 2017\Projects\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FormDeleteHalls.resources
+C:\Users\Lika\Documents\Visual Studio 2017\Projects\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FormEditHalls.resources
+C:\Users\Lika\Documents\Visual Studio 2017\Projects\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FormAddOperators.resources
+C:\Users\Lika\Documents\Visual Studio 2017\Projects\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FormDeleteOperators.resources
+C:\Users\Lika\Documents\Visual Studio 2017\Projects\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FormEditOperators.resources
+C:\Users\Lika\Documents\Visual Studio 2017\Projects\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FormAddSessions.resources
+C:\Users\Lika\Documents\Visual Studio 2017\Projects\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FormDeleteSessions.resources
+C:\Users\Lika\Documents\Visual Studio 2017\Projects\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FormEditSessions.resources
+D:\My Data\KV51\5 semestr\Databases labs\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\My Data\KV51\5 semestr\Databases labs\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\My Data\KV51\5 semestr\Databases labs\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\My Data\KV51\5 semestr\Databases labs\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\MySql.Data.dll
+D:\My Data\KV51\5 semestr\Databases labs\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\MySql.Data.xml
+D:\My Data\KV51\5 semestr\Databases labs\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\DB_L2.csprojAssemblyReference.cache
+D:\My Data\KV51\5 semestr\Databases labs\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+D:\My Data\KV51\5 semestr\Databases labs\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FormAddFilms.resources
+D:\My Data\KV51\5 semestr\Databases labs\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FormAddHalls.resources
+D:\My Data\KV51\5 semestr\Databases labs\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FormAddOperators.resources
+D:\My Data\KV51\5 semestr\Databases labs\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FormAddSessions.resources
+D:\My Data\KV51\5 semestr\Databases labs\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FormDeleteFilms.resources
+D:\My Data\KV51\5 semestr\Databases labs\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FormDeleteHalls.resources
+D:\My Data\KV51\5 semestr\Databases labs\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FormDeleteOperators.resources
+D:\My Data\KV51\5 semestr\Databases labs\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FormDeleteSessions.resources
+D:\My Data\KV51\5 semestr\Databases labs\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FormEditOperators.resources
+D:\My Data\KV51\5 semestr\Databases labs\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FormEditFilms.resources
+D:\My Data\KV51\5 semestr\Databases labs\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FormEditHalls.resources
+D:\My Data\KV51\5 semestr\Databases labs\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FormEditSessions.resources
+D:\My Data\KV51\5 semestr\Databases labs\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\My Data\KV51\5 semestr\Databases labs\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\DB_L2.csproj.GenerateResource.cache
+D:\My Data\KV51\5 semestr\Databases labs\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\DB_L2.csproj.CoreCompileInputs.cache
+D:\My Data\KV51\5 semestr\Databases labs\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\DB_L2.csproj.CopyComplete
+D:\My Data\KV51\5 semestr\Databases labs\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\My Data\KV51\5 semestr\Databases labs\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
